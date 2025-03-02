@@ -1,0 +1,8 @@
+
+# Student Information
+Surname: Abdullatif
+GivenNames: Ahmed
+StudentID: 21029918
+
+# Hyperparameters
+#were kept in individual files so similliar names dont affect functionality
